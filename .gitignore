@@ -1,4 +1,4 @@
-# Compiled Object files
+﻿# Compiled Object files
 *.slo
 *.lo
 *.o
@@ -11,4 +11,3 @@
 *.lai
 *.la
 *.a
-/Doc/HP-Socket TCP & UDP 通信框架开发指南 (v3.3-20141211).pdf
